@@ -18,9 +18,9 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/textView1"
         android:layout_alignLeft="@+id/textView1"
-        android:layout_marginBottom="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="82dp"
         android:text="Button" />
 
 </RelativeLayout>
